@@ -12,5 +12,6 @@ O objetivo do jogo se molda em mostrar uma narrativa que, al√©m de entreter o p√
 
 ![traume game tcc image](https://img.itch.zone/aW1hZ2UvMTc4NzcxOS8xMDUwNTcyMC5wbmc=/original/BosBWR.png)
 
+### Veja o projeto nas redes sociais!
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/traumegametcc/)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://pastima.itch.io/trume-game-tcc)
